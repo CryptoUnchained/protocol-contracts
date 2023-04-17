@@ -24,7 +24,7 @@
   "homepage": "https://github.com/rariblecom/protocol-contracts/meta-tx/#readme",
   "dependencies": {
     "@openzeppelin/contracts": "3.4.0",
-    "@openzeppelin/contracts-upgradeable": "3.4.0",
+    "@openzeppelin/contracts-upgradeable": "4.8.3",
     "eth-sig-util": "^3.0.1"
   },
   "devDependencies": {
