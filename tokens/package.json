@@ -9,7 +9,7 @@
     "test": "truffle test"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "3.4.0",
+    "@openzeppelin/contracts": "4.8.3",
     "@openzeppelin/contracts-upgradeable": "3.4.0",
     "@rarible/lazy-mint": "^0.5.5",
     "@rarible/lib-asset": "^0.1.2",
